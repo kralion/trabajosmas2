@@ -1,75 +1,42 @@
 {
-  "main": [
-    {
-      "name": "Home",
-      "url": "/"
-    },
-    {
-      "name": "Blog",
-      "url": "/blog"
-    },
-    {
-      "name": "Pricing",
-      "url": "/pricing"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "FAQ",
-      "url": "/faq"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    }
-  ],
+  "main": [],
   "footer": [
     {
-      "name": "Company",
+      "name": "Links",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Inicio",
+          "url": "/"
         },
         {
-          "text": "Quick Start",
-          "url": "#"
+          "text": "Registro",
+          "url": "/registro"
         }
       ]
     },
     {
-      "name": "Product",
+      "name": "Ubicación",
       "menu": [
         {
-          "text": "Features",
-          "url": "#"
+          "text": "Calle Los Inkas - Huancayo",
+          "url": "*"
         },
         {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Huancayo - Junín - Perú",
+          "url": "*"
         }
       ]
     },
     {
-      "name": "Support",
+      "name": "Contacto",
       "menu": [
         {
-          "text": "FAQ",
-          "url": "/faq"
+          "text": "trabajosmas@gmail.com",
+          "url": "*"
         },
         {
-          "text": "Privacy Policy",
-          "url": "/privacy-policy"
-        },
-        {
-          "text": "Terms & Conditions",
-          "url": "/terms-conditions"
+          "text": "+51 987654321",
+          "url": "*"
         }
       ]
     }

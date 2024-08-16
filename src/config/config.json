@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
-    "base_url": "https://bigspring-light-astro.vercel.app",
+    "title": "TrabajosMas",
+    "base_url": "https://trabajosmas2.vercel.app/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
-    "logo_height": "38",
+    "logo_height": "60",
     "logo_text": "Astroplate"
   },
 
@@ -19,19 +19,19 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "/contact"
+    "label": "Regístrate Gratis",
+    "link": "/registro"
   },
 
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "footer_content": "Plataforma de ofertas laborales para empleados en Latinoamérica",
+    "copyright": "Copyright © 2024 Trabajosmas - Todos los derechos Reservados"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Joan Brayan",
     "meta_image": "/images/og-image.png",
     "meta_description": "astro boilerplate"
   }
