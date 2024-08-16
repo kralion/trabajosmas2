@@ -5,16 +5,16 @@ import { markdownify } from "@/lib/utils/textConverter";
 const { cta } = Astro.props;
 ---
 
-<section class="section px-4">
-  <div class="section container rounded-xl shadow">
-    <div class="row mx-auto items-center justify-center">
-      <div class="md:col-5 lg:col-4">
+<section class="section lg:px-4">
+  <div class="section container rounded-xl">
+    <div class="row lg:gap-52 mx-auto items-center justify-center">
+      <div class="md:col-5 lg:col-4 -rotate-6 drop-shadow-xl h-1/2 lg:h-full">
         <Image
-          class="w-full"
-          src={cta?.image}
+          class="w-full rounded-xl"
+          src="https://img.freepik.com/fotos-premium/collaje-varios-profesionales-uniforme-diversidad-empleo-concepto-carrera-dia-trabajo_189959-17056.jpg?semt=ais_hybrid"
           alt="call to action image"
-          width={325}
-          height={206}
+          width={425}
+          height={306}
         />
       </div>
       <div class="mt-5 text-center md:mt-0 md:text-left md:col-6 lg:col-5">

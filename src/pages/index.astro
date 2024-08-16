@@ -18,7 +18,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
           <h1 class="font-primary font-bold">{banner?.title}</h1>
           {
             banner?.content && (
-              <p class="mt-4" set:html={markdownify(banner.content)} />
+              <p class="mt-4 lg:text-lg text-sm" set:html={markdownify(banner.content)} />
             )
           }
 
@@ -33,7 +33,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
           {
             banner?.image && (
               <Image
-                class="mx-auto mt-12 rounded-xl"
+                class="mx-auto mt-12 rounded-xl drop-shadow-md"
                 src={banner?.image}
                 width={750}
                 height={390}
@@ -98,7 +98,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
                       {service!.images?.map((image: string) => (
                         <div class="swiper-slide">
                           <Image
-                            class="mx-auto"
+                            class="mx-auto rounded-xl"
                             src={image}
                             width={538}
                             height={328}

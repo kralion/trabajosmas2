@@ -33,12 +33,19 @@ feature:
 
 # services
 services:
-  - title: "Amplia Gama de Empleos Disponibles en Diversos Sectores"
-    content: "En TrabajosMas, ofrecemos una variedad de oportunidades laborales para todos los niveles de experiencia. Desde personal de limpieza y empacadores de productos hasta posiciones en la industria hotelera, minería, y construcción. También contamos con trabajos en aeropuertos, restaurantes, y roles especializados como niñeras, cuidadores de adultos mayores, y cuidadores de fincas. Encuentra el empleo que se ajusta a tus habilidades y comienza a trabajar en un entorno que valora tu dedicación y esfuerzo."
+  - title: "Amplia Gama de Empleos Disponibles"
+    content: "En TrabajosMas, ofrecemos una variedad de oportunidades laborales para todos los niveles de experiencia. Encuentra el empleo que se ajusta a tus habilidades y comienza a trabajar en un entorno que valora tu dedicación y esfuerzo."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
       - "/images/service-slide-3.png"
+
+  - title: "Países en los que puedes trabajar"
+    content: "Las empresas que ofrecen sus empleos en nuestra plataforma, se encuentran disponibles en toda latinoamerica. Desde grandes ciudades hasta zonas rurales, nuestras oportunidades laborales abarcan una amplia variedad de sectores y regiones."
+    images:
+      - "/images/service-slide-4.png"
+      - "/images/service-slide-5.png"
+      - "/images/service-slide-6.png"
   
 # call_to_action
 call_to_action:
