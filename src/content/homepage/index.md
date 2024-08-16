@@ -26,7 +26,7 @@ feature:
     content: "Encuentra empresas reconocidas y en crecimiento que buscan talento como tú."
   - name: "Asesoramiento Profesional"
     icon: "/images/SVG3.svg"
-    content: "Accede a orientación profesional para mejorar tu perfil y destacar en el mercado laboral."
+    content: "Accede a orientación profesional para mejorar tu perfil y destacar en el amplio mercado laboral."
   - name: "Networking y Comunidad"
     icon: "/images/SVG1.svg"
     content: "Únete a una comunidad de profesionales y amplía tus oportunidades a través del networking."
