@@ -1,7 +1,7 @@
 ---
 banner:
   title: Encuentra tu trabajo ideal hoy
-  content: Accede a miles de empleos actualizados diriamente,<br/> ofreciéndote una amplia variedad de oportunidades.
+  content: Accede a miles de empleos actualizados diariamente,<br/> ofreciéndote una amplia variedad de oportunidades.
   image: /images/banner-art.png
   button:
     label: "Regístrate Gratis"
